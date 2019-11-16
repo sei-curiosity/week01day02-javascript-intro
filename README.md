@@ -94,9 +94,12 @@ Result will be : The area of rectangle is '40.20'
 ![images/js-con1](images/js-con1.png)
 ![images/js-con2](images/js-con2.png)
 ![images/js-con3](images/js-con3.png)
+![images/js-con30](images/js-con30.png)
 ![images/js-con4](images/js-con4.png)
+![images/js-con40](images/js-con40.png)
 ![images/js-con5](images/js-con5.png)
 ![images/js-con6](images/js-con6.png)
+![images/js-con60](images/js-con60.png)
 ![images/js-con7](images/js-con7.png)
 
 ![images/js-27](images/js-27.png)
