@@ -4,8 +4,7 @@
 ![images/js-7](images/js-7.png)
 ![images/js-8](images/js-8.png)
 ![images/js-9](images/js-9.png)
-![images/js-10](images/js-10.png)
-![images/js-10a](images/js-10a.png)
+
 # Javascript Intro
 
 
