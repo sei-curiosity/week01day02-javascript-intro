@@ -51,7 +51,7 @@ This is because the variable has already been declared.
 ## String Methods and Properties
 
 ```js
-let name = "mike";
+let name = "sami";
 let capitalName = name.toUpperCase(); // ?
 
 name.length // ?
@@ -60,8 +60,8 @@ name.length // ?
 ## String Concatenation
 ```js
 
-let firstName = "Mike";
-let lastName = "Finneran";
+let firstName = "sami";
+let lastName = "aldahlawi";
 
 let fullName = firstName + " " + lastName;
 ```
